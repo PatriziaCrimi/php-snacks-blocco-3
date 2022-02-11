@@ -10,6 +10,10 @@ body {
   font-family: 'Nunito', sans-serif;  /* 300;400;600;700;800;900 */
 }
 
+table {
+  width: 100%;
+}
+
 ul {
   list-style: none;
 }
